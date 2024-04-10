@@ -1,1 +1,1 @@
-# Projeto-DSS-2324-uminho
+Projeto DSS 2023/24 UMinho

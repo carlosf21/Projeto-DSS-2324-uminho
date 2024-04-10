@@ -1,0 +1,5 @@
+bin/
+__MACOSX*
+.DS_Store*
+*.bak*
+*.vpp.lck
